@@ -1,0 +1,5 @@
+firstName - Alexey
+lastName - Merkulov
+age - 30
+pet - -
+preferred salary 20000$
